@@ -19,6 +19,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -39,4 +41,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2906-construct-product-matrix/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
