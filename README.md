@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
