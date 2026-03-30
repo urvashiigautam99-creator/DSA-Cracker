@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -12,6 +13,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +32,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
