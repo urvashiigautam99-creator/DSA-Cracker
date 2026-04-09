@@ -37,6 +37,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -118,4 +119,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 <!---LeetCode Topics End-->
