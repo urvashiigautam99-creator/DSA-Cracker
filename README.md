@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2075-decode-the-slanted-ciphertext](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -65,6 +66,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
