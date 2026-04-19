@@ -34,6 +34,7 @@
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -128,6 +129,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Design
@@ -139,4 +141,8 @@
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->
