@@ -35,6 +35,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0048-rotate-image/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -80,6 +81,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -122,6 +124,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0048-rotate-image/) | Medium |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
