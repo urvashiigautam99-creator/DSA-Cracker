@@ -38,6 +38,7 @@
 | [0048-rotate-image](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0048-rotate-image/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -111,6 +112,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
