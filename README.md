@@ -41,6 +41,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1646-get-maximum-in-generated-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -139,6 +140,7 @@
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1646-get-maximum-in-generated-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2751-robot-collisions/) | Hard |
