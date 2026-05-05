@@ -21,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -172,6 +173,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
@@ -199,6 +201,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Depth-First Search
