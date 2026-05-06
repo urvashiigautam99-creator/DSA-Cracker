@@ -40,6 +40,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0048-rotate-image](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -185,6 +186,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -198,6 +200,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Two Pointers
