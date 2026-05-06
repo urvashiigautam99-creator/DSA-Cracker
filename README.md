@@ -242,5 +242,6 @@
 | [0182-duplicate-emails](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
