@@ -240,4 +240,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0183-customers-who-never-order/) | Easy |
+| [0197-rising-temperature](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
