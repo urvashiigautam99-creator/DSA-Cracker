@@ -253,4 +253,5 @@
 | [0197-rising-temperature](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
