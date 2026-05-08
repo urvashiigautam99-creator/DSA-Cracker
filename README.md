@@ -47,6 +47,7 @@
 | [0048-rotate-image](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0283-move-zeroes/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -218,6 +219,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0061-rotate-list/) | Medium |
+| [0283-move-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0283-move-zeroes/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1861-rotating-the-box/) | Medium |
 ## Depth-First Search
