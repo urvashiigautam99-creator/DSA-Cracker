@@ -274,6 +274,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0607-sales-person](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0607-sales-person/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
