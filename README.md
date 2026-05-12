@@ -56,6 +56,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -95,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -181,6 +183,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
