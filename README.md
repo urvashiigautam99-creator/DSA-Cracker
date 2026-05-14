@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2615-sum-of-distances](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -58,6 +59,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -145,6 +147,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
