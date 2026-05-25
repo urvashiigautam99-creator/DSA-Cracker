@@ -37,6 +37,7 @@
 | [0657-robot-return-to-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -178,6 +181,7 @@
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
