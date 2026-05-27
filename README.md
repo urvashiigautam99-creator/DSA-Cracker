@@ -318,6 +318,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0061-rotate-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
