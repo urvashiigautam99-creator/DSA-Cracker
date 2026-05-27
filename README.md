@@ -25,6 +25,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +310,7 @@
 | ------- | ------- |
 | [2404-most-frequent-even-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
