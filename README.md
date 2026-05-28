@@ -287,6 +287,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0283-move-zeroes/) | Easy |
@@ -329,6 +330,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Database
 | Problem Name | Difficulty |
