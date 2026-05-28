@@ -332,6 +332,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -368,4 +369,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
