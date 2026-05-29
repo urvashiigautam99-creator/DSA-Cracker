@@ -113,6 +113,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -216,6 +217,7 @@
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
