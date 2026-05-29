@@ -257,6 +257,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0155-min-stack/) | Medium |
 | [2751-robot-collisions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -274,6 +275,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0155-min-stack/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
