@@ -76,6 +76,7 @@
 | [0066-plus-one](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0189-rotate-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
@@ -190,6 +191,7 @@
 | [0005-longest-palindromic-substring](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
