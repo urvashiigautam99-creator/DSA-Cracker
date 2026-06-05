@@ -341,6 +341,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [1306-jump-game-iii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -423,4 +424,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3161-block-placement-queries/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
