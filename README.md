@@ -76,6 +76,7 @@
 | [0066-plus-one](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0088-merge-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -148,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
 | [1340-jump-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -331,6 +333,7 @@
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0283-move-zeroes/) | Easy |
