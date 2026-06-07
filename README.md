@@ -11,6 +11,7 @@
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1345-jump-game-iv](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2615-sum-of-distances](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -107,6 +108,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -435,6 +437,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -443,4 +446,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
