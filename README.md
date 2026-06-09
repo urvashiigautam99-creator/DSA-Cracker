@@ -32,6 +32,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0020-valid-parentheses/) | Easy |
@@ -196,6 +197,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -428,6 +430,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Binary Indexed Tree
