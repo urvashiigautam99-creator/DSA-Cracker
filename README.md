@@ -59,6 +59,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3862-find-the-smallest-balanced-index](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Sorting
@@ -275,6 +277,7 @@
 | [2751-robot-collisions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
