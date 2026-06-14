@@ -312,6 +312,7 @@
 | [0155-min-stack](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0155-min-stack/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -358,6 +359,7 @@
 | [0443-string-compression](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0443-string-compression/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1861-rotating-the-box/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -405,6 +407,7 @@
 | [0061-rotate-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
