@@ -60,6 +60,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -278,6 +279,7 @@
 | [2751-robot-collisions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
