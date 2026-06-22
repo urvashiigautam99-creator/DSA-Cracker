@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -45,6 +46,7 @@
 | [0657-robot-return-to-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0796-rotate-string/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -398,6 +400,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
