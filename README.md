@@ -400,6 +400,7 @@
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [1306-jump-game-iii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -431,6 +432,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -503,6 +505,7 @@
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -516,6 +519,7 @@
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
