@@ -51,6 +51,7 @@
 | [0657-robot-return-to-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0796-rotate-string/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
+| [1041-robot-bounded-in-circle](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
@@ -276,6 +277,7 @@
 | [0189-rotate-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
+| [1041-robot-bounded-in-circle](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -297,6 +299,7 @@
 | [0657-robot-return-to-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0867-transpose-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1041-robot-bounded-in-circle](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
