@@ -83,6 +83,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0018-4sum/) | Medium |
+| [0027-remove-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0048-rotate-image/) | Medium |
@@ -388,6 +389,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0018-4sum/) | Medium |
+| [0027-remove-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0061-rotate-list/) | Medium |
