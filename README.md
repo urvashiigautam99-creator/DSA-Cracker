@@ -55,6 +55,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -119,6 +120,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
