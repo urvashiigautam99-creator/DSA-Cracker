@@ -43,6 +43,7 @@
 | [0014-longest-common-prefix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0068-text-justification/) | Hard |
 | [0125-valid-palindrome](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0125-valid-palindrome/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0388-longest-absolute-file-path/) | Medium |
