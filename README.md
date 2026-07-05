@@ -104,6 +104,7 @@
 | [0283-move-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0283-move-zeroes/) | Easy |
 | [0867-transpose-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1345-jump-game-iv/) | Hard |
@@ -211,6 +212,7 @@
 | [0048-rotate-image](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0867-transpose-matrix/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -239,6 +241,7 @@
 | [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
