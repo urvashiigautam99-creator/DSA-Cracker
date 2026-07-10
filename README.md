@@ -88,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0027-remove-element/) | Easy |
@@ -343,6 +344,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0011-container-with-most-water/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -420,6 +422,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
