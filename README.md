@@ -90,6 +90,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0014-longest-common-prefix/) | Easy |
+| [0016-3sum-closest](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -192,6 +193,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
@@ -423,6 +425,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0011-container-with-most-water/) | Medium |
+| [0016-3sum-closest](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
