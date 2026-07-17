@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -107,6 +108,7 @@
 | [0068-text-justification](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0088-merge-sorted-array/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -320,6 +322,7 @@
 | [0048-rotate-image](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0066-plus-one/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0189-rotate-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
@@ -504,6 +507,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0149-max-points-on-a-line/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
