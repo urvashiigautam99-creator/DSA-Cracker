@@ -260,6 +260,7 @@
 | [0010-regular-expression-matching](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0053-maximum-subarray/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
@@ -318,6 +319,7 @@
 | [0013-roman-to-integer](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0066-plus-one/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
@@ -586,6 +588,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0101-symmetric-tree/) | Easy |
@@ -597,10 +600,12 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0101-symmetric-tree/) | Easy |
