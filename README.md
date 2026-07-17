@@ -26,6 +26,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -168,6 +169,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -293,6 +295,7 @@
 | [2615-sum-of-distances](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2906-construct-product-matrix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -324,6 +327,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -412,6 +416,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3161-block-placement-queries/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -491,6 +496,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Geometry
@@ -552,6 +558,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -639,4 +646,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3620-network-recovery-pathways/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
