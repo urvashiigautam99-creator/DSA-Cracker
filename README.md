@@ -62,6 +62,7 @@
 | [0796-rotate-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0796-rotate-string/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -370,6 +371,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0011-container-with-most-water/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -408,6 +410,7 @@
 | [0155-min-stack](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0155-min-stack/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
@@ -575,6 +578,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
