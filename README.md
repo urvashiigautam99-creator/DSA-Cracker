@@ -80,6 +80,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3499-maximize-active-section-with-trade-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -311,6 +312,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
