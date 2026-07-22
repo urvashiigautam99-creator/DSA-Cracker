@@ -271,6 +271,7 @@
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0091-decode-ways](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0091-decode-ways/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0392-is-subsequence/) | Easy |
@@ -614,6 +615,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
@@ -626,12 +628,14 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
@@ -661,6 +665,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0090-subsets-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0113-path-sum-ii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
