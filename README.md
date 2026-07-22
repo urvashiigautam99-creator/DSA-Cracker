@@ -54,6 +54,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0068-text-justification/) | Hard |
+| [0091-decode-ways](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0125-valid-palindrome/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0392-is-subsequence](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0392-is-subsequence/) | Easy |
@@ -268,6 +269,7 @@
 | [0010-regular-expression-matching](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0053-maximum-subarray/) | Medium |
+| [0091-decode-ways](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0392-is-subsequence/) | Easy |
