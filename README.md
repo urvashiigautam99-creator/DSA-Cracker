@@ -415,6 +415,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0042-trapping-rain-water/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0155-min-stack/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
@@ -488,6 +489,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0101-symmetric-tree/) | Easy |
@@ -611,6 +613,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
@@ -628,6 +631,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0100-same-tree/) | Easy |
