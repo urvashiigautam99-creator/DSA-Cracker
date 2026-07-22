@@ -111,6 +111,7 @@
 | [0068-text-justification](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0090-subsets-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -567,6 +568,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0090-subsets-ii/) | Medium |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -649,6 +651,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0090-subsets-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0113-path-sum-ii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
