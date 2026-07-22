@@ -55,6 +55,7 @@
 | [0058-length-of-last-word](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0068-text-justification/) | Hard |
 | [0091-decode-ways](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0125-valid-palindrome](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0125-valid-palindrome/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0392-is-subsequence](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0392-is-subsequence/) | Easy |
@@ -655,6 +656,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0090-subsets-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0113-path-sum-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0113-path-sum-ii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
