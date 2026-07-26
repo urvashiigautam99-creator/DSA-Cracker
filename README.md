@@ -122,6 +122,7 @@
 | [0189-rotate-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0283-move-zeroes/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0867-transpose-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -220,6 +221,7 @@
 | [0018-4sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1340-jump-game-v/) | Hard |
@@ -342,6 +344,7 @@
 | [0149-max-points-on-a-line](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0189-rotate-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
