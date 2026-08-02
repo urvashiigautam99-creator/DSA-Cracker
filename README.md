@@ -131,6 +131,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0867-transpose-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1306-jump-game-iii/) | Medium |
@@ -293,6 +294,7 @@
 | [0152-maximum-product-subarray](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1340-jump-game-v/) | Hard |
@@ -356,6 +358,7 @@
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1840-maximum-building-height/) | Hard |
@@ -722,4 +725,8 @@
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
