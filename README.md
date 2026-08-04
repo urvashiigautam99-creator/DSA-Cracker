@@ -34,6 +34,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3731-find-missing-elements](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -212,6 +213,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -255,6 +257,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3731-find-missing-elements](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
