@@ -87,6 +87,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -372,6 +373,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -420,6 +422,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -624,6 +627,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Monotonic Stack
@@ -707,6 +711,7 @@
 | [0093-restore-ip-addresses](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0113-path-sum-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
