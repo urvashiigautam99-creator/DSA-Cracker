@@ -135,6 +135,7 @@
 | [0867-transpose-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1306-jump-game-iii/) | Medium |
@@ -300,6 +301,7 @@
 | [0392-is-subsequence](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1340-jump-game-v/) | Hard |
@@ -325,6 +327,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -366,6 +369,7 @@
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -744,4 +748,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
