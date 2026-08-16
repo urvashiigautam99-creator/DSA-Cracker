@@ -165,6 +165,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -379,6 +380,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -428,6 +430,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -566,6 +569,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -757,16 +761,23 @@
 | ------- | ------- |
 | [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
