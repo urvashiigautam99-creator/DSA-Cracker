@@ -148,6 +148,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1563-stone-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1563-stone-game-v/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1646-get-maximum-in-generated-array/) | Easy |
@@ -312,6 +313,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1340-jump-game-v/) | Hard |
+| [1563-stone-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -378,6 +380,7 @@
 | [1041-robot-bounded-in-circle](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1563-stone-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
@@ -761,6 +764,7 @@
 | ------- | ------- |
 | [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
+| [1563-stone-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
