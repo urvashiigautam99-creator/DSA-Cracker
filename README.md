@@ -16,6 +16,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -145,6 +146,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -432,6 +434,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0011-container-with-most-water/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -639,6 +642,7 @@
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0090-subsets-ii/) | Medium |
 | [0268-missing-number](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0268-missing-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
