@@ -167,6 +167,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1861-rotating-the-box/) | Medium |
+| [1872-stone-game-viii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1872-stone-game-viii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -323,6 +324,7 @@
 | [1563-stone-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1872-stone-game-viii/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -348,6 +350,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1872-stone-game-viii/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2906-construct-product-matrix/) | Medium |
@@ -389,6 +392,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1563-stone-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
@@ -782,17 +786,20 @@
 | [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
 | [1563-stone-game-v](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2029-stone-game-ix/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
