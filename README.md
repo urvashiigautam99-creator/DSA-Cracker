@@ -629,6 +629,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Database
