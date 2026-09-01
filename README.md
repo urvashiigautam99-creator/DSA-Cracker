@@ -88,6 +88,7 @@
 | [2833-furthest-point-from-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -110,6 +111,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1871-jump-game-vii/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Array
 | Problem Name | Difficulty |
