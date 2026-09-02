@@ -249,6 +249,7 @@
 | [3838-weighted-word-mapping](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3862-find-the-smallest-balanced-index](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,6 +431,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
