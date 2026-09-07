@@ -72,6 +72,7 @@
 | [0443-string-compression](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0443-string-compression/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -327,6 +328,7 @@
 | [0392-is-subsequence](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/urvashiigautam99-creator/DSA-Cracker/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
